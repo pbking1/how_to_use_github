@@ -1,0 +1,5 @@
+1.create the repository in the web github first
+2.git add how_to_use_github(or the file you want to upload)
+3.git commit -m "first version"
+4.git remote add origin https://github.com/pbking1/how_to_use_github.git
+5.git push -u origin master
